@@ -1,0 +1,567 @@
+export default {
+	fotos :{
+		invierno: [
+			{
+				id: 1,
+				nombre: 'Conjunto: Invierno Timido',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/invierno/1.jpg',
+				
+			},
+			{
+				id: 2,
+				nombre: 'Conjunto: Invierno Coqueto Alegre',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/invierno/2.jpg',
+
+			},
+			{
+				id: 3,
+				nombre: 'Conjunto: Invierno Orgulloso',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/invierno/3.jpg',
+			},
+			{
+				id: 4,
+				nombre: 'Conjunto: Invierno Adorable',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/invierno/4.jpg',
+			},
+			{
+				id: 5,
+				nombre: 'Conjunto: Invierno Serio ',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/invierno/5.jpg',
+			},
+			{
+				id: 6,
+				nombre: 'Conjunto: Invierno Intrépido',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/invierno/6.jpg',
+			},
+			{
+				id: 7,
+				nombre: 'Conjunto: Invierno Carmesi',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/invierno/7.jpg',
+			},
+			{
+				id: 8,
+				nombre: 'Conjunto: Invierno Ruby',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/invierno/8.jpg',
+			},
+			{
+				id: 9,
+				nombre: 'Conjunto: Invierno White Snow',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/invierno/9.jpg',
+			},
+			{
+				id: 10,
+				nombre: 'Conjunto: Invierno Alegre Amoroso',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/invierno/10.jpg',
+			},
+			{
+				id: 11,
+				nombre: 'Conjunto: Invierno Casual',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/invierno/11.jpg',
+			},
+			{
+				id: 12,
+				nombre: 'Conjunto: Invierno Business',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/invierno/12.jpg',
+			},
+			{
+				id: 13,
+				nombre: 'Conjunto: Invierno Date',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/invierno/13.jpg',
+			},
+			{
+				id: 14,
+				nombre: 'Conjunto: Invierno Atrevido',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/invierno/14.jpg',
+			},
+			{
+				id: 15,
+				nombre: 'Conjunto: Invierno Señorita X',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/invierno/15.jpg',
+			}
+
+
+		],
+
+		otono: [
+			{
+				id: 16,
+				nombre: 'Conjunto: Otoño a la moda',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/otono/1.jpg',
+			},
+			{
+				id: 16,
+				nombre: 'Conjunto: Otoño Atrevido ',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/otono/2.jpg',
+			},
+			{
+				id: 17,
+				nombre: 'Conjunto: Otoño Rouge',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/otono/3.jpg',
+			},
+			{
+				id: 18,
+				nombre: 'Conjunto: Otoño Black Mapple',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/otono/4.jpg',
+			},
+			{
+				id: 19,
+				nombre: 'Conjunto: Otoño Negro Amanecer',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/otono/5.jpg',
+			},
+			{
+				id: 20,
+				nombre: 'Conjunto: Otoño Blanco Despertar',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/otono/6.jpg',
+			},
+			{
+				id: 21,
+				nombre: 'Conjunto: Otoño Lindo Amanecer ',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"' ,
+				ruta: './img/otono/7.jpg',
+			},
+			{
+				id: 22,
+				nombre: 'Conjunto: Lindura Señorial',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"' ,
+				ruta: './img/otono/8.jpg',
+			},
+			{
+				id: 23,
+				nombre: 'Conjunto: Otoño Adorable',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"' ,
+				ruta: './img/otono/9.jpg',
+			},
+			{
+				id: 24,
+				nombre: 'Conjunto: Otoño Ruby',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"' ,
+				ruta: './img/otono/10.jpg',
+			},
+			{
+				id: 25,
+				nombre: 'Conjunto Otoño Casual',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"' ,
+				ruta: './img/otono/11.jpg',
+			},
+			{
+				id: 26,
+				nombre: 'Conjunto: Otoño Pacional',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"' ,
+				ruta: './img/otono/12.jpg',
+			},
+			{
+				id: 27,
+				nombre: 'Conjunto: Otoño Formal Master',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"' ,
+				ruta: './img/otono/13.jpg',
+			},
+			{
+				id: 28,
+				nombre: 'Conjunto: Otoño Sexy',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"' ,
+				ruta: './img/otono/14.jpg',
+			},
+			{
+				id: 29,
+				nombre: 'Conjunto: Otoño Aban',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/otono/15.jpg',
+			}
+		],
+
+
+		primavera: [
+			{
+				id: 30,
+				nombre: 'Conjunto: Primavera Azul',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"' ,
+				ruta: './img/primavera/1.jpg',
+			},
+			{
+				id: 31,
+				nombre: 'Conjunto: Primavera Coat',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/primavera/2.jpg',
+			},
+			{
+				id: 32,
+				nombre: 'Conjunto: Primavera Violeta Revenge',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/primavera/3.jpg',
+			},
+			{
+				id: 33,
+				nombre: 'Conjunto: Primavera Celosa',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/primavera/4.jpg',
+			},
+			{
+				id: 34,
+				nombre: 'Conjunto: Primavera Deset',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/primavera/5.jpg',
+			},
+			{
+				id: 35,
+				nombre: 'Conjunto: Primavera Ejecutiva Linda',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/primavera/6.jpg',
+			},
+			{
+				id: 36,
+				nombre: 'Conjunto: Primavera Mistress',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/primavera/7.jpg',
+			},
+			{
+				id: 37,
+				nombre: 'Conjunto: Primavera Chica Mala',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/primavera/8.jpg',
+			},
+			{
+				id: 38,
+				nombre: 'Conjunto: Primavera Black Pearl',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/primavera/9.jpg',
+			},
+			{
+				id: 39,
+				nombre: 'Conjunto: Primavera Coqueta',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/primavera/10.jpg',
+			},
+			{
+				id: 40,
+				nombre: 'Conjunto: Primavera Secreta',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/primavera/11.jpg',
+			},
+			{
+				id: 41,
+				nombre: 'Conjunto: Primavera Sensual',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/primavera/12.jpg',
+			},
+			{
+				id: 42,
+				nombre: 'Conjunto: Primavera Lujuriosa',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/primavera/13.jpg',
+			},
+			{
+				id: 43,
+				nombre: 'Conjunto: Primavera Lux',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/primavera/14.jpg',
+			},
+			{
+				id: 44,
+				nombre: 'Conjunto: Primavera Smile',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/primavera/15.jpeg',
+			},
+		],
+
+		verano: [
+			{
+				id: 45,
+				nombre: 'Conjunto: Verano Rojo ',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/verano/1.jpg',
+			},
+			{
+				id: 46,
+				nombre: 'Conjunto: Verano Azul Aoi',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/verano/2.jpg',
+			},
+			{
+				id: 47,
+				nombre: 'Conjunto: Verano Copo de Nieve',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/verano/3.jpg',
+			},
+			{
+				id: 48,
+				nombre: 'Conjunto: Verano Playero',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/verano/4.jpg',
+			},
+			{
+				id: 49,
+				nombre: 'Conjunto: Verano Double',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/verano/5.jpg',
+			},
+			{
+				id: 50,
+				nombre: 'Conjunto: Verano Ruby del Alba',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/verano/6.jpg',
+			},
+			{
+				id: 51,
+				nombre: 'Conjunto: Verano Lust',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/verano/7.jpg',
+			},
+			{
+				id: 52,
+				nombre: 'Conjunto: Verano Romantico',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/verano/8.jpg',
+			},
+			{
+				id: 53,
+				nombre: 'Conjunto: Verano Pasional',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/verano/9.jpg',
+			},
+			{
+				id: 54,
+				nombre: 'Conjunto: Verano Revelador',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/verano/10.jpg',
+			},
+			{
+				id: 55,
+				nombre: 'Conjunto: Verano Lindo',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/verano/11.jpg',
+			},
+			{
+				id: 56,
+				nombre: 'Conjunto: Verano Sexy',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/verano/12.jpg',
+			},
+			{
+				id: 57,
+				nombre: 'Conjunto: Verano Llamativo',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/verano/13.jpg',
+			},
+			{
+				id: 58,
+				nombre: 'Conjunto: Verano del Amor',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/verano/14.jpg',
+			},
+			{
+				id: 59,
+				nombre: 'Conjunto: Verano AAAA',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/verano/15.jpg',
+			},
+		],
+
+        primver: [
+			{
+				id: 60,
+				nombre: 'Conjunto: Primavera - Verano Peach',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/primver/1.jpg',
+			},
+			{
+				id: 61,
+				nombre: 'Conjunto: Primavera - Verano Tarta de Fruta',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/primver/2.jpg',
+			},
+			{
+				id: 62,
+				nombre: 'Conjunto: Primavera - Verano Mandarina',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/primver/3.jpg',
+			},
+			{
+				id: 63,
+				nombre: 'Conjunto: Primavera - Verano Lindo ',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/primver/4.jpg',
+			},
+			{
+				id: 63,
+				nombre: 'Conjunto: Primavera - Verano Glamuroso',
+				descripcion: 'Conjunto primavera/verano apto para cualquier ocasión como fiesta, comidas, reuniones, trabajo, graduaciones, bodas, etc.',
+				ruta: './img/primver/5.jpg',
+			},
+			{
+				id: 65,
+				nombre: 'Conjunto: Primavera - Verano Fashionista',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/primver/6.jpg',
+			},
+			{
+				id: 66,
+				nombre: 'Conjunto: Primavera - Verano kawai',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/primver/7.jpg',
+			},
+			{
+				id: 67,
+				nombre: 'Conjunto: Primavera - Verano Cosmopolita',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/primver/8.jpg',
+			},
+			{
+				id: 68,
+				nombre: 'Conjunto: Primavera - Verano Lucero del Alba',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/primver/9.jpg',
+			},
+			{
+				id: 69,
+				nombre: 'Conjunto: Primavera - Verano Perla ',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/primver/10.jpg',
+			},
+			{
+				id: 70,
+				nombre: 'Conjunto: Primavera - Verano Carrusel',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/primver/11.jpg',
+			},
+			{
+				id: 71,
+				nombre: 'Conjunto: Primavera - Verano Encantado',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/primver/12.jpg',
+			},
+			{
+				id: 72,
+				nombre: 'Conjunto: Primavera - Verano Revelador',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/primver/13.jpg',
+			},
+			{
+				id: 73,
+				nombre: 'Conjunto: Primavera - Verano Complasiente',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/primver/14.jpg',
+			},
+			{
+				id: 74,
+				nombre: 'Conjunto: Primavera - Verano Amortencia',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/primver/15.jpg',
+			},
+		],
+
+        otoinvi: [
+			{
+				id: 75,
+				nombre: 'Conjunto: Otoño - Invierno Mary',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/otoinvi/1.jpg',
+			},
+			{
+				id: 76,
+				nombre: 'Conjunto: Otoño - Invierno Reina Anna',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/otoinvi/2.jpg',
+			},
+			{
+				id: 77,
+				nombre: 'Conjunto: Otoño - Invierno Lirio',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/otoinvi/3.jpg',
+			},
+			{
+				id: 78,
+				nombre: 'Conjunto: Otoño - Invierno Momo',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/otoinvi/4.jpg',
+			},
+			{
+				id: 79,
+				nombre: 'Conjunto: Otoño - Invierno Luneta',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/otoinvi/5.jpg',
+			},
+			{
+				id: 80,
+				nombre: 'Conjunto: Otoño - Invierno All Star',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/otoinvi/6.jpg',
+			},
+			{
+				id: 81,
+				nombre: 'Conjunto: Otoño - Invierno Sauron',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/otoinvi/7.jpg',
+			},
+			{
+				id: 82,
+				nombre: 'Conjunto: Otoño - Invierno Shami',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/otoinvi/8.jpg',
+			},
+			{
+				id: 83,
+				nombre: 'Conjunto: Otoño - Invierno Cavendish',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/otoinvi/9.jpg',
+			},
+			{
+				id: 84,
+				nombre: 'Conjunto: Otoño - Invierno Luna Nueva',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/otoinvi/10.jpg',
+			},
+			{
+				id: 85,
+				nombre: 'Conjunto: Otoño - Invierno Dark Soul',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/otoinvi/11.jpg',
+			},
+			{
+				id: 86,
+				nombre: 'Conjunto: Otoño - Invierno Sin Bra',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/otoinvi/12.jpg',
+			},
+			{
+				id: 87,
+				nombre: 'Conjunto: Otoño - Invierno Olorin ',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/otoinvi/13.jpg',
+			},
+			{
+				id: 88,
+				nombre: 'Conjunto: Otoño - Invierno Reflejo',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/otoinvi/14.jpg',
+			},
+			{
+				id: 89,
+				nombre: 'Conjunto: Otoño - Invierno Demon Soul',
+				descripcion: 'Conjunto muy lindo apto para cualquier ocasión como citas, fiestas, comidas, reuniones familiares, trabajo, graduaciones, bodas, etc. Fotografia generada con Inteligencia Artficial por : Rodrigo Ledesma Garcia  * La modelo aqui mostrada no es una persona real * -------------- Fotografia sacada de la cuenta personal de Rodrigo Ledesma Garcia "https://www.pinterest.com.mx/ledesma3339/ropa-de-coleccion/"',
+				ruta: './img/otoinvi/15.jpg',
+			},
+		],
+
+	},
+}
